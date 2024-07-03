@@ -1,0 +1,38 @@
+.menu:hover{
+    background-image: radial-gradient(black,rgb(93, 228, 228));
+   /*  transform: rotate(180deg); */
+    /* transform: skewX(-180deg); */
+  /*   transform: rotateX(360deg);
+    transform: rotateY(360deg);
+    transition: transform, background-color;
+    transition-duration: 2s;
+    transition-delay: 0.25s;
+    transition-timing-function: ease-in-out; */
+    /* animation: move 1s ease-in-out 0.2s 1 normal forwards; */
+}
+/* @keyframes move {
+    0%{
+        transform: translateX(0);
+        background-image: radial-gradient(rgb(105, 215, 230),rgb(8, 8, 8));
+    }
+    33%{
+        transform: rotate(180deg);
+        background-image: radial-gradient(rgb(95, 194, 207),rgb(0, 0, 0));
+        border-radius: 12.5%;
+    }
+    66%{
+        transform: rotate(180deg);
+        background-image: radial-gradient(rgb(97, 204, 218),rgb(0, 0, 0));
+        border-radius: 25%;
+    }
+    80%{
+        transform: rotate(180deg);
+        background-image: radial-gradient(rgb(94, 217, 233),rgb(0, 0, 0));
+        border-radius: 37%;
+    }
+    100%{
+        transform: translateX(0);
+        border-radius: 50%;
+    }
+    
+} */
